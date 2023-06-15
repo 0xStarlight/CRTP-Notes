@@ -67,4 +67,4 @@ These notes are provided as-is, without any warranties or guarantees of accuracy
 2. Please don't rely solely on these notes; you can actively engage in hands-on practice and practical exercises.
 
 # Contributing
-This repository contains my notes, so I do not accept direct contributions or pull requests. However, if you find any errors or have suggestions for improvement, feel free to create an issue in the repository, and I'll do my best to address it.
+This repository contains my notes, so I will not accept direct contributions or pull requests. However, if you find any errors or have suggestions for improvement, feel free to create an issue in the repository, and I'll do my best to address it.
