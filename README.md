@@ -1,7 +1,7 @@
 # CRTP-Notes
-This repository contains my personal notes that I used while preparing for the CRTP (Certified Red Team Pentesting) exam. These notes served as a valuable resource during my study sessions, helping me reinforce key concepts and improve my understanding of various topics related to red teaming and penetration testing.
+This repository contains my notes while preparing for the CRTP (Certified Red Team Pentesting) exam. These notes were a valuable resource during my study sessions, helping me reinforce critical concepts and improve my understanding of various red teaming and penetration testing topics.
 
-Please note that these notes are based on my own understanding and may not be comprehensive or suitable for everyone. They are intended to supplement other study materials and should not be considered a standalone resource for exam preparation.
+Please note that these notes are based on my understanding and may only be comprehensive or suitable for some. They are intended to supplement other study materials and should not be considered a standalone resource for exam preparation.
 
 # Content
 
@@ -57,15 +57,14 @@ Please note that these notes are based on my own understanding and may not be co
 7. [Forest Trtust Abuse](./6-Forest-Trusts-Abuse/)
 
     1. [Ticket Abuse](./6-Forest-Trusts-Abuse/1-Ticket-Abuse.md)
-    2. [MSS1L Abuse](./6-Forest-Trusts-Abuse/2-MSSQL-Abuse.md)
+    2. [MSSQL Abuse](./6-Forest-Trusts-Abuse/2-MSSQL-Abuse.md)
     
 # Usage
-Feel free to explore the content of this repository and use it as a reference for your own CRTP exam preparation. However, keep in mind the following:
+Feel free to explore the content of this repository and use it as a reference for your CRTP exam preparation. However, keep in mind the following:
 
 These notes are provided as-is, without any warranties or guarantees of accuracy.
-
-    1. Customize the notes according to your understanding and learning style.
-    2. Do not rely solely on these notes; actively engage in hands-on practice and practical exercises.
+1. Customize the notes according to your understanding and learning style.
+2. Please don't rely solely on these notes; you can actively engage in hands-on practice and practical exercises.
 
 # Contributing
-As this repository contains my personal notes, I do not accept direct contributions or pull requests. However, if you find any errors or have suggestions for improvement, feel free to create an issue in the repository, and I'll do my best to address it.
+This repository contains my notes, so I will not accept direct contributions or pull requests. However, if you find any errors or have suggestions for improvement, feel free to create an issue in the repository, and I'll do my best to address it.

