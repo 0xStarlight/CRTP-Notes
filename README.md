@@ -57,7 +57,7 @@ Please note that these notes are based on my understanding and may only be compr
 7. [Forest Trtust Abuse](./6-Forest-Trusts-Abuse/)
 
     1. [Ticket Abuse](./6-Forest-Trusts-Abuse/1-Ticket-Abuse.md)
-    2. [MSS1L Abuse](./6-Forest-Trusts-Abuse/2-MSSQL-Abuse.md)
+    2. [MSSQL Abuse](./6-Forest-Trusts-Abuse/2-MSSQL-Abuse.md)
     
 # Usage
 Feel free to explore the content of this repository and use it as a reference for your CRTP exam preparation. However, keep in mind the following:
